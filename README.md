@@ -5,8 +5,9 @@ It includes implementations of some data mining techniques or algorithms, assign
 ### Algorithm Implementations
 #### 1. Itemset
 Apriori, FP-growth
-#### 2. Matrix
 
+#### 2. Matrix
+SVD, PCA
 
 ### Assignments
 #### 1. Word pair mining and spelling correction
