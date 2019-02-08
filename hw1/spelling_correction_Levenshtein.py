@@ -54,7 +54,7 @@ def main():
     wordlist = ReadFile()
 
     file = open("/pine/scr/j/i/jiaming/homework/output.txt", 'a')
-    file.write("Results of Levenshtei Distance\n")
+    file.write("Results of Levenshtein Distance\n")
 
     l = ['abreviation', 'abstrictiveness', 'accanthopterigious', 'artiﬁtial inteligwnse', 'agglumetation']
     for word in l:
