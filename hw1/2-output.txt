@@ -1,0 +1,255 @@
+Results of 2 grams 
+The No.1 similar word of abreviation is abbreviation with a similarity of 0.9090909090909091 
+The No.2 similar word of abreviation is abbreviations with a similarity of 0.8333333333333334 
+The No.3 similar word of abreviation is abbreviatione with a similarity of 0.8333333333333334 
+The No.4 similar word of abreviation is abbreviationi with a similarity of 0.8333333333333334 
+The No.5 similar word of abreviation is abbreviatio with a similarity of 0.8181818181818182 
+The No.6 similar word of abreviation is abbreviationem with a similarity of 0.7692307692307693 
+The No.7 similar word of abreviation is abbreviationis with a similarity of 0.7692307692307693 
+The No.8 similar word of abreviation is abbreviationes with a similarity of 0.7692307692307693 
+The No.9 similar word of abreviation is abbreviationum with a similarity of 0.7692307692307693 
+The No.10 similar word of abreviation is abbreviati with a similarity of 0.7272727272727273 
+The No.1 similar word of abstrictiveness is abstractiveness with a similarity of 0.75 
+The No.2 similar word of abstrictiveness is astrictives with a similarity of 0.6 
+The No.3 similar word of abstrictiveness is activeness with a similarity of 0.5333333333333333 
+The No.4 similar word of abstrictiveness is abstivesen with a similarity of 0.5333333333333333 
+The No.5 similar word of abstrictiveness is abstivesse with a similarity of 0.5333333333333333 
+The No.6 similar word of abstrictiveness is abstivesses with a similarity of 0.5333333333333333 
+The No.7 similar word of abstrictiveness is astrictive with a similarity of 0.5333333333333333 
+The No.8 similar word of abstrictiveness is addictiveness with a similarity of 0.5294117647058824 
+The No.9 similar word of abstrictiveness is absorptiveness with a similarity of 0.5 
+The No.10 similar word of abstrictiveness is abstricting with a similarity of 0.5 
+The No.1 similar word of accanthopterigious is acanthopterygious with a similarity of 0.7368421052631579 
+The No.2 similar word of accanthopterigious is acanthopterous with a similarity of 0.6666666666666666 
+The No.3 similar word of accanthopterigious is acanthopteri with a similarity of 0.6470588235294118 
+The No.4 similar word of accanthopterigious is acanthopteran with a similarity of 0.5555555555555556 
+The No.5 similar word of accanthopterigious is acanthopterygian with a similarity of 0.55 
+The No.6 similar word of accanthopterigious is acanthopterygii with a similarity of 0.55 
+The No.7 similar word of accanthopterigious is acanthopterans with a similarity of 0.5263157894736842 
+The No.8 similar word of accanthopterigious is acanthopterygians with a similarity of 0.5238095238095238 
+The No.9 similar word of accanthopterigious is acanthopodious with a similarity of 0.5 
+The No.10 similar word of accanthopterigious is acanthous with a similarity of 0.47058823529411764 
+The No.1 similar word of artiﬁtial inteligwnse is artificial intelligence with a similarity of 0.4642857142857143 
+The No.2 similar word of artiﬁtial inteligwnse is artificial intelligences with a similarity of 0.4482758620689655 
+The No.3 similar word of artiﬁtial inteligwnse is artigliante with a similarity of 0.38095238095238093 
+The No.4 similar word of artiﬁtial inteligwnse is artificial insemination with a similarity of 0.3448275862068966 
+The No.5 similar word of artiﬁtial inteligwnse is artigliate with a similarity of 0.3333333333333333 
+The No.6 similar word of artiﬁtial inteligwnse is artigianalmente with a similarity of 0.32 
+The No.7 similar word of artiﬁtial inteligwnse is artigianali with a similarity of 0.3181818181818182 
+The No.8 similar word of artiﬁtial inteligwnse is apartiginte with a similarity of 0.3181818181818182 
+The No.9 similar word of artiﬁtial inteligwnse is artigliaste with a similarity of 0.3181818181818182 
+The No.10 similar word of artiﬁtial inteligwnse is al instante with a similarity of 0.3181818181818182 
+The No.1 similar word of agglumetation is agglutination with a similarity of 0.5333333333333333 
+The No.2 similar word of agglumetation is agglutinations with a similarity of 0.5 
+The No.3 similar word of agglumetation is agglomeration with a similarity of 0.5 
+The No.4 similar word of agglumetation is agglomerations with a similarity of 0.47058823529411764 
+The No.5 similar word of agglumetation is agglutinatarum with a similarity of 0.47058823529411764 
+The No.6 similar word of agglumetation is agglutinata with a similarity of 0.4666666666666667 
+The No.7 similar word of agglumetation is agitationum with a similarity of 0.4666666666666667 
+The No.8 similar word of agglumetation is agglomerationen with a similarity of 0.4444444444444444 
+The No.9 similar word of agglumetation is autoagglutination with a similarity of 0.4444444444444444 
+The No.10 similar word of agglumetation is agglutinatum with a similarity of 0.4375 
+Results of 3 grams 
+The No.1 similar word of abreviation is abbreviation with a similarity of 0.7272727272727273 
+The No.2 similar word of abreviation is abbreviations with a similarity of 0.6666666666666666 
+The No.3 similar word of abreviation is adbreviatione with a similarity of 0.6666666666666666 
+The No.4 similar word of abreviation is abbreviatione with a similarity of 0.6666666666666666 
+The No.5 similar word of abreviation is adbreviationi with a similarity of 0.6666666666666666 
+The No.6 similar word of abreviation is abbreviationi with a similarity of 0.6666666666666666 
+The No.7 similar word of abreviation is abreviativa with a similarity of 0.6363636363636364 
+The No.8 similar word of abreviation is adbreviatio with a similarity of 0.6363636363636364 
+The No.9 similar word of abreviation is abbreviatio with a similarity of 0.6363636363636364 
+The No.10 similar word of abreviation is abreviativo with a similarity of 0.6363636363636364 
+The No.1 similar word of abstrictiveness is abstractiveness with a similarity of 0.625 
+The No.2 similar word of abstrictiveness is activeness with a similarity of 0.5 
+The No.3 similar word of abstrictiveness is addictiveness with a similarity of 0.5 
+The No.4 similar word of abstrictiveness is astrictive with a similarity of 0.5 
+The No.5 similar word of abstrictiveness is astrictives with a similarity of 0.4666666666666667 
+The No.6 similar word of abstrictiveness is abstricting with a similarity of 0.4666666666666667 
+The No.7 similar word of abstrictiveness is abstriction with a similarity of 0.4666666666666667 
+The No.8 similar word of abstrictiveness is abstrict with a similarity of 0.46153846153846156 
+The No.9 similar word of abstrictiveness is abstrictions with a similarity of 0.4375 
+The No.10 similar word of abstrictiveness is activenesses with a similarity of 0.4375 
+The No.1 similar word of accanthopterigious is acanthopterygious with a similarity of 0.55 
+The No.2 similar word of accanthopterigious is acanthopteri with a similarity of 0.5294117647058824 
+The No.3 similar word of accanthopterigious is acanthopterous with a similarity of 0.47368421052631576 
+The No.4 similar word of accanthopterigious is acanthopteran with a similarity of 0.42105263157894735 
+The No.5 similar word of accanthopterigious is acanthopterans with a similarity of 0.4 
+The No.6 similar word of accanthopterigious is acanthopterygii with a similarity of 0.38095238095238093 
+The No.7 similar word of accanthopterigious is acanthopterygian with a similarity of 0.36363636363636365 
+The No.8 similar word of accanthopterigious is acanthopt with a similarity of 0.35294117647058826 
+The No.9 similar word of accanthopterigious is acanthopterygians with a similarity of 0.34782608695652173 
+The No.10 similar word of accanthopterigious is acanthopodious with a similarity of 0.3333333333333333 
+The No.1 similar word of artiﬁtial inteligwnse is artificial intelligence with a similarity of 0.3333333333333333 
+The No.2 similar word of artiﬁtial inteligwnse is artificial intelligences with a similarity of 0.3225806451612903 
+The No.3 similar word of artiﬁtial inteligwnse is artificial insemination with a similarity of 0.21212121212121213 
+The No.4 similar word of artiﬁtial inteligwnse is art martial with a similarity of 0.17391304347826086 
+The No.5 similar word of artiﬁtial inteligwnse is apartiginte with a similarity of 0.16666666666666666 
+The No.6 similar word of artiﬁtial inteligwnse is al instante with a similarity of 0.16666666666666666 
+The No.7 similar word of artiﬁtial inteligwnse is artificial art with a similarity of 0.15384615384615385 
+The No.8 similar word of artiﬁtial inteligwnse is adaptive intelligence with a similarity of 0.15151515151515152 
+The No.9 similar word of artiﬁtial inteligwnse is artiad with a similarity of 0.15 
+The No.10 similar word of artiﬁtial inteligwnse is anteli with a similarity of 0.15 
+The No.1 similar word of agglumetation is agglutination with a similarity of 0.375 
+The No.2 similar word of agglumetation is arietation with a similarity of 0.35714285714285715 
+The No.3 similar word of agglumetation is agglutinations with a similarity of 0.35294117647058826 
+The No.4 similar word of agglumetation is arietationi with a similarity of 0.3333333333333333 
+The No.5 similar word of agglumetation is arietations with a similarity of 0.3333333333333333 
+The No.6 similar word of agglumetation is arietatione with a similarity of 0.3333333333333333 
+The No.7 similar word of agglumetation is arietationes with a similarity of 0.3125 
+The No.8 similar word of agglumetation is arietationem with a similarity of 0.3125 
+The No.9 similar word of agglumetation is arietationum with a similarity of 0.3125 
+The No.10 similar word of agglumetation is arietationis with a similarity of 0.3125 
+Results of 4 grams 
+The No.1 similar word of abreviation is abbreviation with a similarity of 0.7 
+The No.2 similar word of abreviation is abbreviations with a similarity of 0.6363636363636364 
+The No.3 similar word of abreviation is adbreviatione with a similarity of 0.6363636363636364 
+The No.4 similar word of abreviation is abbreviatione with a similarity of 0.6363636363636364 
+The No.5 similar word of abreviation is adbreviationi with a similarity of 0.6363636363636364 
+The No.6 similar word of abreviation is abbreviationi with a similarity of 0.6363636363636364 
+The No.7 similar word of abreviation is abreviativa with a similarity of 0.6 
+The No.8 similar word of abreviation is adbreviatio with a similarity of 0.6 
+The No.9 similar word of abreviation is abbreviatio with a similarity of 0.6 
+The No.10 similar word of abreviation is abreviativo with a similarity of 0.6 
+The No.1 similar word of abstrictiveness is abstractiveness with a similarity of 0.5 
+The No.2 similar word of abstrictiveness is addictiveness with a similarity of 0.4666666666666667 
+The No.3 similar word of abstrictiveness is activeness with a similarity of 0.46153846153846156 
+The No.4 similar word of abstrictiveness is astrictive with a similarity of 0.46153846153846156 
+The No.5 similar word of abstrictiveness is astrictives with a similarity of 0.42857142857142855 
+The No.6 similar word of abstrictiveness is abstricting with a similarity of 0.42857142857142855 
+The No.7 similar word of abstrictiveness is abstriction with a similarity of 0.42857142857142855 
+The No.8 similar word of abstrictiveness is abstrict with a similarity of 0.4166666666666667 
+The No.9 similar word of abstrictiveness is abstrictions with a similarity of 0.4 
+The No.10 similar word of abstrictiveness is activenesses with a similarity of 0.4 
+The No.1 similar word of accanthopterigious is acanthopteri with a similarity of 0.5 
+The No.2 similar word of accanthopterigious is acanthopterygious with a similarity of 0.45 
+The No.3 similar word of accanthopterigious is acanthopteran with a similarity of 0.3888888888888889 
+The No.4 similar word of accanthopterigious is acanthopterous with a similarity of 0.3684210526315789 
+The No.5 similar word of accanthopterigious is acanthopterans with a similarity of 0.3684210526315789 
+The No.6 similar word of accanthopterigious is acanthopterygii with a similarity of 0.35 
+The No.7 similar word of accanthopterigious is acanthopterygian with a similarity of 0.3333333333333333 
+The No.8 similar word of accanthopterigious is acanthopterygians with a similarity of 0.3181818181818182 
+The No.9 similar word of accanthopterigious is acanthopt with a similarity of 0.3125 
+The No.10 similar word of accanthopterigious is acanthopts with a similarity of 0.29411764705882354 
+The No.1 similar word of artiﬁtial inteligwnse is artificial intelligence with a similarity of 0.22580645161290322 
+The No.2 similar word of artiﬁtial inteligwnse is artificial intelligences with a similarity of 0.21875 
+The No.3 similar word of artiﬁtial inteligwnse is artificial insemination with a similarity of 0.11764705882352941 
+The No.4 similar word of artiﬁtial inteligwnse is anteli with a similarity of 0.10526315789473684 
+The No.5 similar word of artiﬁtial inteligwnse is antelio with a similarity of 0.1 
+The No.6 similar word of artiﬁtial inteligwnse is antelias with a similarity of 0.09523809523809523 
+The No.7 similar word of artiﬁtial inteligwnse is acentelik with a similarity of 0.09090909090909091 
+The No.8 similar word of artiﬁtial inteligwnse is adaptive intelligence with a similarity of 0.09090909090909091 
+The No.9 similar word of artiﬁtial inteligwnse is anteliaat with a similarity of 0.09090909090909091 
+The No.10 similar word of artiﬁtial inteligwnse is anteliaan with a similarity of 0.09090909090909091 
+The No.1 similar word of agglumetation is arietation with a similarity of 0.3076923076923077 
+The No.2 similar word of agglumetation is arietationi with a similarity of 0.2857142857142857 
+The No.3 similar word of agglumetation is arietations with a similarity of 0.2857142857142857 
+The No.4 similar word of agglumetation is arietatione with a similarity of 0.2857142857142857 
+The No.5 similar word of agglumetation is arietationes with a similarity of 0.26666666666666666 
+The No.6 similar word of agglumetation is arietationem with a similarity of 0.26666666666666666 
+The No.7 similar word of agglumetation is arietationum with a similarity of 0.26666666666666666 
+The No.8 similar word of agglumetation is arietationis with a similarity of 0.26666666666666666 
+The No.9 similar word of agglumetation is agglutination with a similarity of 0.25 
+The No.10 similar word of agglumetation is arietationibus with a similarity of 0.23529411764705882 
+Results of 5 grams 
+The No.1 similar word of abreviation is abbreviation with a similarity of 0.6666666666666666 
+The No.2 similar word of abreviation is abbreviations with a similarity of 0.6 
+The No.3 similar word of abreviation is adbreviatione with a similarity of 0.6 
+The No.4 similar word of abreviation is abbreviatione with a similarity of 0.6 
+The No.5 similar word of abreviation is adbreviationi with a similarity of 0.6 
+The No.6 similar word of abreviation is abbreviationi with a similarity of 0.6 
+The No.7 similar word of abreviation is abreviativa with a similarity of 0.5555555555555556 
+The No.8 similar word of abreviation is adbreviatio with a similarity of 0.5555555555555556 
+The No.9 similar word of abreviation is abbreviatio with a similarity of 0.5555555555555556 
+The No.10 similar word of abreviation is abreviativo with a similarity of 0.5555555555555556 
+The No.1 similar word of abstrictiveness is addictiveness with a similarity of 0.42857142857142855 
+The No.2 similar word of abstrictiveness is activeness with a similarity of 0.4166666666666667 
+The No.3 similar word of abstrictiveness is astrictive with a similarity of 0.4166666666666667 
+The No.4 similar word of abstrictiveness is astrictives with a similarity of 0.38461538461538464 
+The No.5 similar word of abstrictiveness is abstricting with a similarity of 0.38461538461538464 
+The No.6 similar word of abstrictiveness is abstriction with a similarity of 0.38461538461538464 
+The No.7 similar word of abstrictiveness is abstractiveness with a similarity of 0.375 
+The No.8 similar word of abstrictiveness is abstrict with a similarity of 0.36363636363636365 
+The No.9 similar word of abstrictiveness is abstrictions with a similarity of 0.35714285714285715 
+The No.10 similar word of abstrictiveness is activenesses with a similarity of 0.35714285714285715 
+The No.1 similar word of accanthopterigious is acanthopteri with a similarity of 0.4666666666666667 
+The No.2 similar word of accanthopterigious is acanthopteran with a similarity of 0.35294117647058826 
+The No.3 similar word of accanthopterigious is acanthopterygious with a similarity of 0.35 
+The No.4 similar word of accanthopterigious is acanthopterous with a similarity of 0.3333333333333333 
+The No.5 similar word of accanthopterigious is acanthopterans with a similarity of 0.3333333333333333 
+The No.6 similar word of accanthopterigious is acanthopterygii with a similarity of 0.3157894736842105 
+The No.7 similar word of accanthopterigious is acanthopterygian with a similarity of 0.3 
+The No.8 similar word of accanthopterigious is acanthopterygians with a similarity of 0.2857142857142857 
+The No.9 similar word of accanthopterigious is acanthopt with a similarity of 0.26666666666666666 
+The No.10 similar word of accanthopterigious is acanthopts with a similarity of 0.25 
+The No.1 similar word of artiﬁtial inteligwnse is artificial intelligence with a similarity of 0.16129032258064516 
+The No.2 similar word of artiﬁtial inteligwnse is artificial intelligences with a similarity of 0.15625 
+The No.3 similar word of artiﬁtial inteligwnse is adaptive intelligence with a similarity of 0.0625 
+The No.4 similar word of artiﬁtial inteligwnse is artificial insemination with a similarity of 0.058823529411764705 
+The No.5 similar word of artiﬁtial inteligwnse is anteli with a similarity of 0.05555555555555555 
+The No.6 similar word of artiﬁtial inteligwnse is antelio with a similarity of 0.05263157894736842 
+The No.7 similar word of artiﬁtial inteligwnse is antelias with a similarity of 0.05 
+The No.8 similar word of artiﬁtial inteligwnse is acentelik with a similarity of 0.047619047619047616 
+The No.9 similar word of artiﬁtial inteligwnse is acquiring financial institution with a similarity of 0.047619047619047616 
+The No.10 similar word of artiﬁtial inteligwnse is anteliaat with a similarity of 0.047619047619047616 
+The No.1 similar word of agglumetation is arietation with a similarity of 0.25 
+The No.2 similar word of agglumetation is arietationi with a similarity of 0.23076923076923078 
+The No.3 similar word of agglumetation is arietations with a similarity of 0.23076923076923078 
+The No.4 similar word of agglumetation is arietatione with a similarity of 0.23076923076923078 
+The No.5 similar word of agglumetation is arietationes with a similarity of 0.21428571428571427 
+The No.6 similar word of agglumetation is arietationem with a similarity of 0.21428571428571427 
+The No.7 similar word of agglumetation is arietationum with a similarity of 0.21428571428571427 
+The No.8 similar word of agglumetation is arietationis with a similarity of 0.21428571428571427 
+The No.9 similar word of agglumetation is arietationibus with a similarity of 0.1875 
+The No.10 similar word of agglumetation is agitation with a similarity of 0.16666666666666666 
+Results of Levenshtei Distance
+The No.1 similar word of abreviation is abbreviation with a similarity of 1.0 
+The No.2 similar word of abreviation is abbreviations with a similarity of 0.5 
+The No.3 similar word of abreviation is adbreviationi with a similarity of 0.5 
+The No.4 similar word of abreviation is abbreviatio with a similarity of 0.5 
+The No.5 similar word of abreviation is adbreviatione with a similarity of 0.5 
+The No.6 similar word of abreviation is adbreviatio with a similarity of 0.5 
+The No.7 similar word of abreviation is abreviativo with a similarity of 0.5 
+The No.8 similar word of abreviation is abreviativa with a similarity of 0.5 
+The No.9 similar word of abreviation is abreviaron with a similarity of 0.5 
+The No.10 similar word of abreviation is abbreviationi with a similarity of 0.5 
+The No.1 similar word of abstrictiveness is abstractiveness with a similarity of 1.0 
+The No.2 similar word of abstrictiveness is absorptiveness with a similarity of 0.3333333333333333 
+The No.3 similar word of abstrictiveness is attractiveness with a similarity of 0.3333333333333333 
+The No.4 similar word of abstrictiveness is astrictives with a similarity of 0.25 
+The No.5 similar word of abstrictiveness is addictiveness with a similarity of 0.25 
+The No.6 similar word of abstrictiveness is abstractiones with a similarity of 0.25 
+The No.7 similar word of abstrictiveness is abortiveness with a similarity of 0.25 
+The No.8 similar word of abstrictiveness is associativeness with a similarity of 0.25 
+The No.9 similar word of abstrictiveness is abstractedness with a similarity of 0.25 
+The No.10 similar word of abstrictiveness is attributiveness with a similarity of 0.25 
+The No.1 similar word of accanthopterigious is acanthopterygious with a similarity of 0.5 
+The No.2 similar word of accanthopterigious is acanthopterous with a similarity of 0.25 
+The No.3 similar word of accanthopterigious is acanthopterygians with a similarity of 0.25 
+The No.4 similar word of accanthopterigious is acanthopterygian with a similarity of 0.2 
+The No.5 similar word of accanthopterigious is acanthopterygii with a similarity of 0.2 
+The No.6 similar word of accanthopterigious is acanthophorous with a similarity of 0.16666666666666666 
+The No.7 similar word of accanthopterigious is acanthopterans with a similarity of 0.16666666666666666 
+The No.8 similar word of accanthopterigious is acanthopteri with a similarity of 0.16666666666666666 
+The No.9 similar word of accanthopterigious is acanthopodious with a similarity of 0.16666666666666666 
+The No.10 similar word of accanthopterigious is acanthocephalous with a similarity of 0.14285714285714285 
+The No.1 similar word of artiﬁtial inteligwnse is artificial intelligence with a similarity of 0.16666666666666666 
+The No.2 similar word of artiﬁtial inteligwnse is artificial intelligences with a similarity of 0.14285714285714285 
+The No.3 similar word of artiﬁtial inteligwnse is adaptive intelligence with a similarity of 0.1111111111111111 
+The No.4 similar word of artiﬁtial inteligwnse is artistic license with a similarity of 0.1111111111111111 
+The No.5 similar word of artiﬁtial inteligwnse is artistic licence with a similarity of 0.1 
+The No.6 similar word of artiﬁtial inteligwnse is antiutilitarians with a similarity of 0.1 
+The No.7 similar word of artiﬁtial inteligwnse is antiutilitarianism with a similarity of 0.09090909090909091 
+The No.8 similar word of artiﬁtial inteligwnse is arterializzazione with a similarity of 0.09090909090909091 
+The No.9 similar word of artiﬁtial inteligwnse is antitotalitarians with a similarity of 0.09090909090909091 
+The No.10 similar word of artiﬁtial inteligwnse is artificial insemination with a similarity of 0.09090909090909091 
+The No.1 similar word of agglumetation is agglomeration with a similarity of 0.5 
+The No.2 similar word of agglumetation is argumentation with a similarity of 0.3333333333333333 
+The No.3 similar word of agglumetation is agglomeratioun with a similarity of 0.3333333333333333 
+The No.4 similar word of agglumetation is agglutination with a similarity of 0.3333333333333333 
+The No.5 similar word of agglumetation is agglomerations with a similarity of 0.3333333333333333 
+The No.6 similar word of agglumetation is annumeration with a similarity of 0.25 
+The No.7 similar word of agglumetation is agglomerating with a similarity of 0.25 
+The No.8 similar word of agglumetation is agglomerationen with a similarity of 0.25 
+The No.9 similar word of agglumetation is argumentatione with a similarity of 0.25 
+The No.10 similar word of agglumetation is aggeneration with a similarity of 0.25 
